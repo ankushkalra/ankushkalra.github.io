@@ -4,8 +4,8 @@
   "private": true,
   "homepage": "https://ankushkalra.github.io/portfolio",
   "dependencies": {
-    "react": "^18.1.0",
-    "react-dom": "^18.1.0",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
     "react-scripts": "^5.0.1"
   },
   "scripts": {
@@ -32,6 +32,8 @@
     ]
   },
   "devDependencies": {
+    "@types/react": "^19.1.12",
+    "@types/react-dom": "^19.1.9",
     "gh-pages": "^2.2.0"
   }
 }
